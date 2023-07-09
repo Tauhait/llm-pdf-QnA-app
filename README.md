@@ -10,21 +10,25 @@ App to chat with your PDF document. Gain insightful information and learn &amp; 
 
 ⚡️ panel
 
-### Use-cases
+## Use-cases
 
 👉🏻 Ask clarifying questions about a job description
+
 ![job desc question](./imgs/2Demo.gif)
 
 👉🏻 Chat with a research paper for better and quick understanding
+
 ![understanding research paper](./imgs/1Demo.gif)
 
-### Visualize chains with LangSmith
+## Visualize chains with LangSmith
 CGPA eligiblity QnA chain - 
+
 ![CGPA question chain](./imgs/langSmith-viz-chain-atlassian.png)
 
 Research paper QnA chain - 
+
 ![Research paper QnA chain](./imgs/langSmith-viz-chain-carla.png)
 
 
 
-
+* NOTE: Images or GIFs will NOT load if you're using JIO network. check thread - https://github.com/orgs/community/discussions/53013#discussioncomment-5871832
