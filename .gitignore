@@ -1,0 +1,6 @@
+.env
+demo/
+.lock
+.ipynb_checkpoints
+Pipfile*
+temp.pdf
